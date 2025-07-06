@@ -6,9 +6,8 @@
 
 <h2>Utilities Used</h2>
 
-- <b>Virtualbox</b>
-- <b>virtual machine</b>
-- <b>Windows ISO</b> 
+
+- <b>Windows Host Machine</b> 
 
 <h2>Environments Used </h2>
 
