@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This example will give you a possible solution for an application not opening.
+This example will show you a possible solution for an application not opening.
 
 <h2>Utilities Used</h2>
 
