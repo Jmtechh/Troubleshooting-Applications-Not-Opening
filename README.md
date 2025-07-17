@@ -2,12 +2,12 @@
 
 
 <h2>Description</h2>
-This example will give you a potential solution for an application not opening.
+This example will give you a possible solution for an application not opening.
 
 <h2>Utilities Used</h2>
 
 
-- <b>Windows Host Machine</b> 
+- <b>Task manager</b> 
 
 <h2>Environments Used </h2>
 
