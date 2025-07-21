@@ -16,6 +16,6 @@ This example will show you a possible solution for an application not opening.
 
 <h2>Program walk-through:</h2>
 
-If an application is not opening you can press CTRL+ALT+DEL which will give you access to the task manager which you can then use to end a process which could be preventing a program from opening.
+If an application fails to open, you can press Ctrl + Alt + Del to access the Task Manager. From there, you can end any processes that might be preventing the program from launching.”
 
 <img src="https://i.imgur.com/Vo9lIMX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
